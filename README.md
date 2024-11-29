@@ -55,13 +55,13 @@ Follow these steps to set up and run the project locally:
 
 To run the project, you need to configure the following environment variables in a `.env` file:
 
-1. **VITE_GEMINI_API**  
+1. `VITE_GEMINI_API`
    API key for the Google Gemini Generative AI service.
 
-2. **VITE_FIREBASE_API**  
+2. `VITE_FIREBASE_API`
    Firebase API key for authentication and backend services.
 
-3. **VITE_FIREBASE_DB_URL**  
+3. `VITE_FIREBASE_DB_URL`
    Firebase Realtime Database URL for storing and retrieving data.
 
 ### 1. Clone the Repository
